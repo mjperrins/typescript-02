@@ -37,7 +37,7 @@
     "cors": "^2.8.5",
     "express-pino-logger": "^4.0.0",
     "pino": "^6.0.0",
-    "rxjs": "^6.5.2",
+    "rxjs": "^6.6.0",
     "superagent": "^5.2.2",
     "tslib": "^1.11.1",
     "typescript-ioc": "^3.2.1",
